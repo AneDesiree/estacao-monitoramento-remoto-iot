@@ -1,7 +1,4 @@
- /*
- * Projeto final - ENGC50
- * Author: Aiane Bastos 
- */
+// ----------- SENSOR -----------
 
 #define F_CPU 16000000UL
 #define BAUD 9600
